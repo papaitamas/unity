@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/secret2d backup46.unity.meta.unity
+  isLoaded: 1
+  isActive: 1
